@@ -43,7 +43,7 @@ const DataList = () => {
   const handlePageChange = (newPage) => {
     setCurrentPage(newPage);
   };
-
+// https://github.com/codes4education/How-to-Implement-Pagination-in-your-React.js
   return (
     <div>
       <h2>Paginated Data List</h2>
